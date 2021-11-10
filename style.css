@@ -4,12 +4,18 @@
 }
 
 html,
-body {
+body,
+h1,
+h2,
+h3 {
   margin: 0;
   padding: 0;
 }
 
 /* Add styles here! */
+html {
+  font-size: 20px;
+}
 header {
   padding: 5rem 0px 2rem;
 }
