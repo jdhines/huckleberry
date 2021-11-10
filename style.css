@@ -15,7 +15,8 @@ header {
 }
 
 .max-width-wrapper {
-  max-width: 500px;
+  min-width: 500px;
+  max-width: 22rem;
   margin-left: auto;
   margin-right: auto;
   padding: 1.5rem;
